@@ -30,8 +30,6 @@
 - [Architecture du projet](#-architecture-du-projet)
 - [Résultats](#-résultats)
 - [Technologies utilisées](#-technologies-utilisées)
-- [Améliorations futures](#-améliorations-futures)
-- [Contribution](#-contribution)
 - [Licence](#-licence)
 
 ---
@@ -374,47 +372,6 @@ D'après les coefficients de la régression logistique :
 ### Outils de développement
 - **Jupyter Notebook** : Analyse exploratoire
 - **Git** : Versioning du code
-
----
-
-## 🔮 Améliorations futures
-
-### Court terme
-- [ ] Ajouter des **tests unitaires** pour le pipeline
-- [ ] Implémenter un **système de logging** pour le débogage
-- [ ] Créer un **script de validation des inputs** plus robuste
-- [ ] Ajouter un **mode batch** pour prédire plusieurs films à la fois
-
-### Moyen terme
-- [ ] Tester d'autres algorithmes : **Random Forest**, **XGBoost**, **Neural Networks**
-- [ ] Implémenter le **SHAP** pour l'interprétabilité des prédictions
-- [ ] Ajouter une **API REST** (Flask/FastAPI) pour des intégrations tierces
-- [ ] Créer une **interface web moderne** (Streamlit ou Dash)
-
-### Long terme
-- [ ] **Scraping en temps réel** via l'API TMDB pour des données fraîches
-- [ ] **Modèle de séries temporelles** pour capturer les tendances
-- [ ] **Système de recommandation** pour suggérer des améliorations au film
-- [ ] **Déploiement cloud** (AWS/GCP/Azure) avec CI/CD
-
----
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Voici comment participer :
-
-1. **Fork** le projet
-2. Créer une branche pour votre feature (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une **Pull Request**
-
-### Guidelines
-
-- Respecter le style de code existant (PEP 8)
-- Ajouter des docstrings pour les nouvelles fonctions
-- Tester votre code avant de soumettre
-- Mettre à jour la documentation si nécessaire
 
 ---
 
