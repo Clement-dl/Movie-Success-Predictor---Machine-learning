@@ -381,16 +381,6 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 
 ---
 
-## 👨‍💻 Auteur
-
-**Votre Nom**
-
-- GitHub: [@votre-username](https://github.com/votre-username)
-- LinkedIn: [Votre Profil](https://linkedin.com/in/votre-profil)
-- Email: votre.email@example.com
-
----
-
 ## 🙏 Remerciements
 
 - **TMDB** pour la mise à disposition du dataset
